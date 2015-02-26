@@ -1,0 +1,12 @@
+The dashboard files populated into the main folder instead of their own folder for some reason.
+
+To utilize the custom dashboard:
+1. Open the 2015 Robot Dashboard project.
+2. Build Specifications -> FRC_Dashboard - Right Click and select Build
+3. After completion, go to Labview Data/Builds
+4. Copy the FRC Dashboard Folder to wherever the dashboard is stored on the computer being used as the driver station
+	- For example, mine is C:\Program Files (x86)
+	- Copy AND OVERWRITE the old FRC Dashboard folder.
+
+BEFORE running the Autonomous mode, verify the encoder values being returned to the driver station. When the robot is moving forward, BOTH must be negative for the autonomous I wrote to work.
+If they aren't, the encoders need to be adjusted in the begin.vi so that they both go the same direction count-wise.
