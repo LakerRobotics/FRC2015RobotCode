@@ -1,5 +1,9 @@
 [My Computer]
+<<<<<<< HEAD
 My Computer = "10.0.0.15"
+=======
+My Computer = "10.0.8.94"
+>>>>>>> Claw-Code-for-End-Effector-#2
 
 [Target]
 Target = "roboRIO-9000.local"

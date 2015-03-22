@@ -130,6 +130,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Claw Loop.vi" Type="VI" URL="../Claw Loop.vi"/>
+		<Item Name="Control 1.ctl" Type="VI" URL="../Control 1.ctl"/>
 		<Item Name="Control Loop.vi" Type="VI" URL="../Control Loop.vi"/>
 		<Item Name="Lift Loop.vi" Type="VI" URL="../Lift Loop.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
