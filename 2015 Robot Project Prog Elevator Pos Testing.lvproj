@@ -684,7 +684,8 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_UtilitiesTimebaseConstants.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesTimebaseConstants.vi"/>
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
-			<Item Name="Auton Drive Gyro &amp; Encoder.vi" Type="VI" URL="../Auton Drive Gyro &amp; Encoder.vi"/>
+			<Item Name="Auton Drive Gyro &amp; Encoder Straight.vi" Type="VI" URL="../Auton Drive Gyro &amp; Encoder Straight.vi"/>
+			<Item Name="Auton Drive Gyro &amp; Encoder Turn.vi" Type="VI" URL="../Auton Drive Gyro &amp; Encoder Turn.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
