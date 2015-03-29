@@ -2,7 +2,6 @@
 <Project Type="Project" LVVersion="14008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
-	<Property Name="varPersistentID:{4E10B321-4782-4485-ADAF-0F0360F90D42}" Type="Ref">/Target/THink JunkUntitled Library 1.lvlib/Starting Elevator Location</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -130,17 +129,17 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Auton PickUpTote Encoder.vi" Type="VI" URL="../Auton PickUpTote Encoder.vi"/>
 		<Item Name="Auton PickUpTote.vi" Type="VI" URL="../Auton PickUpTote.vi"/>
 		<Item Name="Claw Control.vi" Type="VI" URL="../Claw Control.vi"/>
-		<Item Name="Control 1.ctl" Type="VI" URL="../Control 1.ctl"/>
 		<Item Name="Control Loop.vi" Type="VI" URL="../Control Loop.vi"/>
 		<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 			<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Lift Control PID based.vi" Type="VI" URL="../Lift Control PID based.vi"/>
 		<Item Name="Lift Control.vi" Type="VI" URL="../Lift Control.vi"/>
 		<Item Name="Lift Zero Encoder.vi" Type="VI" URL="../Lift Zero Encoder.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
-		<Item Name="THink JunkUntitled Library 1.lvlib" Type="Library" URL="../THink JunkUntitled Library 1.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
