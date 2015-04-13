@@ -129,6 +129,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Auton Drive Gyro &amp; Encoder Straight at Angle.vi" Type="VI" URL="../Auton Drive Gyro &amp; Encoder Straight at Angle.vi"/>
 		<Item Name="Auton PickUpRC.vi" Type="VI" URL="../Auton PickUpRC.vi"/>
 		<Item Name="Auton PickUpTote Encoder.vi" Type="VI" URL="../Auton PickUpTote Encoder.vi"/>
 		<Item Name="Auton PickUpTote.vi" Type="VI" URL="../Auton PickUpTote.vi"/>
@@ -722,7 +723,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">28</Property>
+				<Property Name="Bld_version.build" Type="Int">29</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
